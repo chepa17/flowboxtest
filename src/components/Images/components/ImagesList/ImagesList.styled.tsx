@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
-export const ImagesListStyled = styled.div`
+export const ImagesListStyled = styled.ul`
   display: flex;
   flex-direction: column;
 `
 
-export const ImagesListItem = styled.div`
+export const ImagesListItem = styled.li`
   display: flex;
   margin-top: 50px;
   justify-content: center;
